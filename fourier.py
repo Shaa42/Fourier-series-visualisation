@@ -89,5 +89,5 @@ while running:
     if abs(angle) >= 2 * math.pi:
         angle = 0
         
-pg.quit
+pg.quit()
 
